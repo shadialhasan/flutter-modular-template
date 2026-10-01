@@ -1,0 +1,12 @@
+{
+  "description": "Enterprise Feature-First modular architecture template for Flutter with BLoC, Dio, and Clean Code",
+  "topics": [
+    "flutter",
+    "modular-architecture",
+    "bloc-pattern",
+    "clean-architecture",
+    "feature-first",
+    "dart",
+    "mobile-app"
+  ]
+}
