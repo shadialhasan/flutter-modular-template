@@ -1,0 +1,12 @@
+.dart_tool/
+.packages
+build/
+ios/.generated/
+android/.gradle
+*.iml
+*.ipr
+*.iws
+.idea/
+.env
+.DS_Store
+Thumbs.db
