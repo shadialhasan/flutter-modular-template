@@ -3,10 +3,10 @@
 > **Topics:** `flutter` `modular-architecture` `bloc-pattern` `clean-architecture` `feature-first` `dart` `mobile-app`
 
 
-[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/flutter-modular-template/releases/tag/v1.0.0)
-[![CI/CD Pipeline](https://github.com/MobileConduit/flutter-modular-template/actions/workflows/ci.yml/badge.svg)](https://github.com/MobileConduit/flutter-modular-template/actions)
+[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/shadialhasan/flutter-modular-template/releases/tag/v1.0.0)
+[![CI/CD Pipeline](https://github.com/shadialhasan/flutter-modular-template/actions/workflows/ci.yml/badge.svg)](https://github.com/shadialhasan/flutter-modular-template/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Pattern: Feature-First](https://img.shields.io/badge/Architecture-Feature--First%20Modular-brightgreen.svg)](https://github.com/MobileConduit)
+[![Pattern: Feature-First](https://img.shields.io/badge/Architecture-Feature--First%20Modular-brightgreen.svg)](https://github.com/shadialhasan)
 [![Dart: 3.x](https://img.shields.io/badge/Dart-3.x-blue.svg)](https://dart.dev)
 
 An enterprise-ready Flutter application starter kit implementing Feature-First packaging, deterministic State Machine controllers, decoupled HTTP routing with middleware, structured error codes, and offline sync queue persistence.
@@ -130,7 +130,7 @@ flutter-modular-template/
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/MobileConduit/flutter-modular-template.git
+git clone https://github.com/shadialhasan/flutter-modular-template.git
 cd flutter-modular-template
 
 # Install dependencies
@@ -161,7 +161,7 @@ dart test
 - **Email:** [mhd.shadi.alhasan@gmail.com](mailto:mhd.shadi.alhasan@gmail.com)  
 - **Phone / WhatsApp:** [+963934005922](tel:+963934005922)  
 - **Location:** Damascus, Syria  
-- **GitHub:** [MobileConduit](https://github.com/MobileConduit)  
+- **GitHub:** [shadialhasan](https://github.com/shadialhasan)  
 
 ---
 
